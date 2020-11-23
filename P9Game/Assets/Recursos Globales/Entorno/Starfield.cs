@@ -9,8 +9,12 @@ public class Starfield : MonoBehaviour
     public float StarSizeRange = 0.5f;
     public float FieldWidth = 20f;
     public float FieldHeight = 25f;
+    public float velocity = 0.25f;
     public bool Colorize = false;
-    Transform theCamera;
+    public float ParallaxFactor;
+
+    public Camera cam;
+
     float xOffset;
     float yOffset;
 
@@ -20,7 +24,7 @@ public class Starfield : MonoBehaviour
 
     void Start()
     {
-        theCamera = Camera.main.transform;
+        //cam = GetComponent<Camera>();
     }
     void Awake()
     {
@@ -29,7 +33,7 @@ public class Starfield : MonoBehaviour
 
         Assert.IsNotNull(Particles, "Particle system missing from object!");
 
-        xOffset = FieldWidth * 0.3f;                                                                                                        // Offset the coordinates to distribute the spread
+        xOffset = FieldWidth * 0.5f;                                                                                                        // Offset the coordinates to distribute the spread
         yOffset = FieldHeight * 0.5f;                                                                                                       // around the object's center
 
         for (int i = 0; i < MaxStars; i++)
@@ -55,43 +59,41 @@ public class Starfield : MonoBehaviour
         float y = Random.Range(0, height);
         return new Vector3(x - xOffset, y - yOffset, 0);
     }
-    
- 
-	void Update()
+
+
+    void Update()
     {
+
+        Vector3 screenPoint = cam.WorldToViewportPoint(this.transform.position);
+
+        Vector3 newPos = cam.transform.position ;                   // Calculate the position of the object
+        newPos.z = 0;                       // Force Z-axis to zero, since we're in 2D
+        transform.position = newPos;
+
+
         for (int i = 0; i < MaxStars; i++)
         {
             Vector3 pos = Stars[i].position + transform.position;
 
-            if (pos.x < (theCamera.position.x - xOffset))
-            {
-                pos.x = theCamera.position.x + pos.x + FieldWidth;
-            }
-            
-
-            /*
-            if (pos.x < (theCamera.position.x - xOffset))
+            if (pos.x < screenPoint.x - xOffset)
             {
                 pos.x += FieldWidth;
             }
-            else if (pos.x > (theCamera.position.x + xOffset))
+            else 
             {
-                pos.x -= theCamera.position.x;
+                pos.x -= velocity * ParallaxFactor * Time.deltaTime;
+   
             }
 
-            if (pos.y < (theCamera.position.y - yOffset))
-            {
-                pos.y += FieldHeight;
-            }
-            else if (pos.y > (theCamera.position.y + yOffset))
-            {
-                pos.y -= FieldHeight;
-            }*/
 
-            Stars[i].position = pos - transform.position;
+            Stars[i].position = pos - transform.position ;
         }
+
+
         Particles.SetParticles(Stars, Stars.Length);
 
     }
+
+
 
 }
