@@ -32,7 +32,6 @@ public class movimiento : MonoBehaviour
         }
         else
         {
-            Destroy(meteor);
             Destroy(this.gameObject);
         }
     }
