@@ -670,7 +670,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1808012025}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -10.5, y: 0.17, z: 0}
+  m_LocalPosition: {x: -10.78, y: 0.1, z: 0}
   m_LocalScale: {x: 0.7738539, y: 0.8401175, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -692,6 +692,9 @@ MonoBehaviour:
   hp: 0
   maxHP: 120
   vida: {fileID: 561514834}
+  disparo: {fileID: 1894249502531107776, guid: 1e63f5119d6c9ce47aff657026df685a, type: 3}
+  firerate: 0.5
+  nextfire: 0
 --- !u!61 &1808012029
 BoxCollider2D:
   m_ObjectHideFlags: 0
