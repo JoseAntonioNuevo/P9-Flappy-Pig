@@ -11,6 +11,13 @@ public class Player : MonoBehaviour
     public float hp, maxHP = 120f;
     public Image vida;
 
+    public GameObject disparo;
+    Vector2 dispos;
+    public float firerate = 0.5f;
+    public float nextfire = 0.0f;
+
+
+
     // Start is called before the first frame update
     void Start()
     {
@@ -23,7 +30,11 @@ public class Player : MonoBehaviour
     {
         if (Input.GetKey(KeyCode.S) || Input.GetKey(KeyCode.DownArrow)) transform.Translate(0, -speed * Time.deltaTime, 0);
         if (Input.GetKey(KeyCode.W) || Input.GetKey(KeyCode.UpArrow)) transform.Translate(0, speed * Time.deltaTime, 0);
-
+        if (Input.GetKey(KeyCode.Space) && Time.time > nextfire)
+        {
+            nextfire = Time.time + firerate;
+            fire();
+        }
 
     }
 
@@ -41,6 +52,14 @@ public class Player : MonoBehaviour
             recibirdano(40);
             Destroy(collision.gameObject);
         }
+
+    }
+
+    void fire()
+    {
+        dispos = transform.position;
+        dispos += new Vector2(2f, 0f);
+        Instantiate(disparo, dispos, Quaternion.identity);
     }
 
 }
