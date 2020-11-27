@@ -1,0 +1,1218 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -530159753, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 3
+  lastUpdatedAtString: 2020-11-27T02:09:02.522+01:00
+  initializedAtString: 2020-11-27T01:08:25.317+01:00
+  log:
+  - commitID: fc6d3e01695b937e633803c291c28451f36b7698
+    mergeA: 
+    mergeB: 
+    authorName: uoclnotario
+    authorEmail: 72309408+uoclnotario@users.noreply.github.com
+    commitEmail: 72309408+uoclnotario@users.noreply.github.com
+    commitName: uoclnotario
+    summary: "A\xF1adidos avatares"
+    description: 
+    timeString: 2020-11-22T15:06:11.000+01:00
+    commitTimeString: 2020-11-22T15:06:11.000+01:00
+    changes:
+    - path: P9Game\Assets\Nivel 1\Enemigo\Templates\Avatar-Granjeroxcf.png
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\Assets\Nivel
+        1\Enemigo\Templates\Avatar-Granjeroxcf.png
+      projectPath: Assets\Nivel 1\Enemigo\Templates\Avatar-Granjeroxcf.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: P9Game\Assets\Nivel 1\Enemigo\Templates\Avatar-Granjeroxcf.png.meta
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\Assets\Nivel
+        1\Enemigo\Templates\Avatar-Granjeroxcf.png.meta
+      projectPath: Assets\Nivel 1\Enemigo\Templates\Avatar-Granjeroxcf.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: P9Game\Assets\Nivel 2\Enemigo\Templates\Avatar-Nave de Caza.png
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\Assets\Nivel
+        2\Enemigo\Templates\Avatar-Nave de Caza.png
+      projectPath: Assets\Nivel 2\Enemigo\Templates\Avatar-Nave de Caza.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: P9Game\Assets\Nivel 2\Enemigo\Templates\Avatar-Nave de Caza.png.meta
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\Assets\Nivel
+        2\Enemigo\Templates\Avatar-Nave de Caza.png.meta
+      projectPath: Assets\Nivel 2\Enemigo\Templates\Avatar-Nave de Caza.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: P9Game\Assets\Nivel 3\Enemigo\Templates\Avatar-Cocinero espacial.png
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\Assets\Nivel
+        3\Enemigo\Templates\Avatar-Cocinero espacial.png
+      projectPath: Assets\Nivel 3\Enemigo\Templates\Avatar-Cocinero espacial.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: P9Game\Assets\Nivel 3\Enemigo\Templates\Avatar-Cocinero espacial.png.meta
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\Assets\Nivel
+        3\Enemigo\Templates\Avatar-Cocinero espacial.png.meta
+      projectPath: Assets\Nivel 3\Enemigo\Templates\Avatar-Cocinero espacial.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: P9Game\Assets\Recursos Globales\Enemigos Globales\Rocas espaciales.meta
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\Assets\Recursos
+        Globales\Enemigos Globales\Rocas espaciales.meta
+      projectPath: Assets\Recursos Globales\Enemigos Globales\Rocas espaciales.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: P9Game\Assets\Recursos Globales\Enemigos Globales\Rocas espaciales\Rocas
+        espaciales.cs
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\Assets\Recursos
+        Globales\Enemigos Globales\Rocas espaciales\Rocas espaciales.cs
+      projectPath: Assets\Recursos Globales\Enemigos Globales\Rocas espaciales\Rocas
+        espaciales.cs
+      originalPath: P9Game\Assets\Recursos Globales\Enemigos Globales\Rocas espaciales.cs
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: P9Game\Assets\Recursos Globales\Enemigos Globales\Rocas espaciales\Rocas
+        espaciales.cs.meta
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\Assets\Recursos
+        Globales\Enemigos Globales\Rocas espaciales\Rocas espaciales.cs.meta
+      projectPath: Assets\Recursos Globales\Enemigos Globales\Rocas espaciales\Rocas
+        espaciales.cs.meta
+      originalPath: P9Game\Assets\Recursos Globales\Enemigos Globales\Rocas espaciales.cs.meta
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: P9Game\Assets\Recursos Globales\Enemigos Globales\Rocas espaciales\Templates.meta
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\Assets\Recursos
+        Globales\Enemigos Globales\Rocas espaciales\Templates.meta
+      projectPath: Assets\Recursos Globales\Enemigos Globales\Rocas espaciales\Templates.meta
+      originalPath: P9Game\Assets\Recursos Globales\Enemigos Globales\Templates.meta
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: P9Game\Assets\Recursos Globales\Enemigos Globales\Rocas espaciales\Templates\Avatar-Roca.png
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\Assets\Recursos
+        Globales\Enemigos Globales\Rocas espaciales\Templates\Avatar-Roca.png
+      projectPath: Assets\Recursos Globales\Enemigos Globales\Rocas espaciales\Templates\Avatar-Roca.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: P9Game\Assets\Recursos Globales\Enemigos Globales\Rocas espaciales\Templates\Avatar-Roca.png.meta
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\Assets\Recursos
+        Globales\Enemigos Globales\Rocas espaciales\Templates\Avatar-Roca.png.meta
+      projectPath: Assets\Recursos Globales\Enemigos Globales\Rocas espaciales\Templates\Avatar-Roca.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: P9Game\Assets\Recursos Globales\Player\Templates\Avatar-MrBeacon.png
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\Assets\Recursos
+        Globales\Player\Templates\Avatar-MrBeacon.png
+      projectPath: Assets\Recursos Globales\Player\Templates\Avatar-MrBeacon.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: P9Game\Assets\Recursos Globales\Player\Templates\Avatar-MrBeacon.png.meta
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\Assets\Recursos
+        Globales\Player\Templates\Avatar-MrBeacon.png.meta
+      projectPath: Assets\Recursos Globales\Player\Templates\Avatar-MrBeacon.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: P9Game\Assets\Scenes\Nivel0.unity
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\Assets\Scenes\Nivel0.unity
+      projectPath: Assets\Scenes\Nivel0.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: P9Game\Assets\Scenes\Nivel0.unity.meta
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\Assets\Scenes\Nivel0.unity.meta
+      projectPath: Assets\Scenes\Nivel0.unity.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: P9Game\Assets\Scenes\Nivel1.unity
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\Assets\Scenes\Nivel1.unity
+      projectPath: Assets\Scenes\Nivel1.unity
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: P9Game\Assets\Scenes\Nivel2.unity
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\Assets\Scenes\Nivel2.unity
+      projectPath: Assets\Scenes\Nivel2.unity
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: P9Game\Assets\Scenes\Nivel3.unity
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\Assets\Scenes\Nivel3.unity
+      projectPath: Assets\Scenes\Nivel3.unity
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+  - commitID: 4fe71707e76bf1606687f31e0b83b1ebdaad76f8
+    mergeA: 
+    mergeB: 
+    authorName: uoclnotario
+    authorEmail: 72309408+uoclnotario@users.noreply.github.com
+    commitEmail: 72309408+uoclnotario@users.noreply.github.com
+    commitName: uoclnotario
+    summary: Estructura Proyecto inicial
+    description: 
+    timeString: 2020-11-22T14:41:19.000+01:00
+    commitTimeString: 2020-11-22T14:41:19.000+01:00
+    changes:
+    - path: .gitattributes
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\.gitattributes
+      projectPath: ..\.gitattributes
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: .gitignore
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\.gitignore
+      projectPath: ..\.gitignore
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: .vs\P9Game\v15\.suo
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\.vs\P9Game\v15\.suo
+      projectPath: ..\.vs\P9Game\v15\.suo
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: .vs\P9Game\v15\Server\sqlite3\db.lock
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\.vs\P9Game\v15\Server\sqlite3\db.lock
+      projectPath: ..\.vs\P9Game\v15\Server\sqlite3\db.lock
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: .vs\P9Game\v15\Server\sqlite3\storage.ide
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\.vs\P9Game\v15\Server\sqlite3\storage.ide
+      projectPath: ..\.vs\P9Game\v15\Server\sqlite3\storage.ide
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: .vs\P9Game\v15\Server\sqlite3\storage.ide-shm
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\.vs\P9Game\v15\Server\sqlite3\storage.ide-shm
+      projectPath: ..\.vs\P9Game\v15\Server\sqlite3\storage.ide-shm
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: .vs\P9Game\v15\Server\sqlite3\storage.ide-wal
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\.vs\P9Game\v15\Server\sqlite3\storage.ide-wal
+      projectPath: ..\.vs\P9Game\v15\Server\sqlite3\storage.ide-wal
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: P9Game\.vs\P9Game\v15\.suo
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\.vs\P9Game\v15\.suo
+      projectPath: .vs\P9Game\v15\.suo
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: P9Game\.vs\P9Game\v15\Server\sqlite3\db.lock
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\.vs\P9Game\v15\Server\sqlite3\db.lock
+      projectPath: .vs\P9Game\v15\Server\sqlite3\db.lock
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: P9Game\.vs\P9Game\v15\Server\sqlite3\storage.ide
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\.vs\P9Game\v15\Server\sqlite3\storage.ide
+      projectPath: .vs\P9Game\v15\Server\sqlite3\storage.ide
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: P9Game\.vs\P9Game\v15\Server\sqlite3\storage.ide-shm
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\.vs\P9Game\v15\Server\sqlite3\storage.ide-shm
+      projectPath: .vs\P9Game\v15\Server\sqlite3\storage.ide-shm
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: P9Game\.vs\P9Game\v15\Server\sqlite3\storage.ide-wal
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\.vs\P9Game\v15\Server\sqlite3\storage.ide-wal
+      projectPath: .vs\P9Game\v15\Server\sqlite3\storage.ide-wal
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: P9Game\Assembly-CSharp-Editor-firstpass.csproj
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\Assembly-CSharp-Editor-firstpass.csproj
+      projectPath: Assembly-CSharp-Editor-firstpass.csproj
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: P9Game\Assets\Editor.meta
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\Assets\Editor.meta
+      projectPath: Assets\Editor.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: P9Game\Assets\Editor\com.unity.mobile.notifications.meta
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\Assets\Editor\com.unity.mobile.notifications.meta
+      projectPath: Assets\Editor\com.unity.mobile.notifications.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: P9Game\Assets\Editor\com.unity.mobile.notifications\NotificationSettings.asset
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\Assets\Editor\com.unity.mobile.notifications\NotificationSettings.asset
+      projectPath: Assets\Editor\com.unity.mobile.notifications\NotificationSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: P9Game\Assets\Editor\com.unity.mobile.notifications\NotificationSettings.asset.meta
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\Assets\Editor\com.unity.mobile.notifications\NotificationSettings.asset.meta
+      projectPath: Assets\Editor\com.unity.mobile.notifications\NotificationSettings.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: P9Game\Assets\Nivel 0.meta
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\Assets\Nivel
+        0.meta
+      projectPath: Assets\Nivel 0.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: P9Game\Assets\Nivel 0\Enemigo.meta
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\Assets\Nivel
+        0\Enemigo.meta
+      projectPath: Assets\Nivel 0\Enemigo.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: P9Game\Assets\Nivel 0\Enemigo\Granjero espacial.cs
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\Assets\Nivel
+        0\Enemigo\Granjero espacial.cs
+      projectPath: Assets\Nivel 0\Enemigo\Granjero espacial.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: P9Game\Assets\Nivel 0\Enemigo\Granjero espacial.cs.meta
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\Assets\Nivel
+        0\Enemigo\Granjero espacial.cs.meta
+      projectPath: Assets\Nivel 0\Enemigo\Granjero espacial.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: P9Game\Assets\Nivel 0\Enemigo\Templates.meta
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\Assets\Nivel
+        0\Enemigo\Templates.meta
+      projectPath: Assets\Nivel 0\Enemigo\Templates.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: P9Game\Assets\Nivel 0\Escenario.meta
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\Assets\Nivel
+        0\Escenario.meta
+      projectPath: Assets\Nivel 0\Escenario.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: P9Game\Assets\Nivel 0\Scripts.meta
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\Assets\Nivel
+        0\Scripts.meta
+      projectPath: Assets\Nivel 0\Scripts.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: P9Game\Assets\Nivel 1.meta
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\Assets\Nivel
+        1.meta
+      projectPath: Assets\Nivel 1.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: P9Game\Assets\Nivel 1\Enemigo.meta
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\Assets\Nivel
+        1\Enemigo.meta
+      projectPath: Assets\Nivel 1\Enemigo.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: P9Game\Assets\Nivel 1\Enemigo\GranjeroEspacial.cs
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\Assets\Nivel
+        1\Enemigo\GranjeroEspacial.cs
+      projectPath: Assets\Nivel 1\Enemigo\GranjeroEspacial.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: P9Game\Assets\Nivel 1\Enemigo\GranjeroEspacial.cs.meta
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\Assets\Nivel
+        1\Enemigo\GranjeroEspacial.cs.meta
+      projectPath: Assets\Nivel 1\Enemigo\GranjeroEspacial.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: P9Game\Assets\Nivel 1\Enemigo\Templates.meta
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\Assets\Nivel
+        1\Enemigo\Templates.meta
+      projectPath: Assets\Nivel 1\Enemigo\Templates.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: P9Game\Assets\Nivel 1\Escenario.meta
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\Assets\Nivel
+        1\Escenario.meta
+      projectPath: Assets\Nivel 1\Escenario.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: P9Game\Assets\Nivel 1\Scripts.meta
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\Assets\Nivel
+        1\Scripts.meta
+      projectPath: Assets\Nivel 1\Scripts.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: P9Game\Assets\Nivel 2.meta
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\Assets\Nivel
+        2.meta
+      projectPath: Assets\Nivel 2.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: P9Game\Assets\Nivel 2\Enemigo.meta
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\Assets\Nivel
+        2\Enemigo.meta
+      projectPath: Assets\Nivel 2\Enemigo.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: P9Game\Assets\Nivel 2\Enemigo\NaveDeCaza1.cs
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\Assets\Nivel
+        2\Enemigo\NaveDeCaza1.cs
+      projectPath: Assets\Nivel 2\Enemigo\NaveDeCaza1.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: P9Game\Assets\Nivel 2\Enemigo\NaveDeCaza1.cs.meta
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\Assets\Nivel
+        2\Enemigo\NaveDeCaza1.cs.meta
+      projectPath: Assets\Nivel 2\Enemigo\NaveDeCaza1.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: P9Game\Assets\Nivel 2\Enemigo\Templates.meta
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\Assets\Nivel
+        2\Enemigo\Templates.meta
+      projectPath: Assets\Nivel 2\Enemigo\Templates.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: P9Game\Assets\Nivel 2\Escenario.meta
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\Assets\Nivel
+        2\Escenario.meta
+      projectPath: Assets\Nivel 2\Escenario.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: P9Game\Assets\Nivel 2\Scripts.meta
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\Assets\Nivel
+        2\Scripts.meta
+      projectPath: Assets\Nivel 2\Scripts.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: P9Game\Assets\Nivel 3.meta
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\Assets\Nivel
+        3.meta
+      projectPath: Assets\Nivel 3.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: P9Game\Assets\Nivel 3\Enemigo.meta
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\Assets\Nivel
+        3\Enemigo.meta
+      projectPath: Assets\Nivel 3\Enemigo.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: P9Game\Assets\Nivel 3\Enemigo\Templates.meta
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\Assets\Nivel
+        3\Enemigo\Templates.meta
+      projectPath: Assets\Nivel 3\Enemigo\Templates.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: P9Game\Assets\Nivel 3\Escenario.meta
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\Assets\Nivel
+        3\Escenario.meta
+      projectPath: Assets\Nivel 3\Escenario.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: P9Game\Assets\Nivel 3\Scripts.meta
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\Assets\Nivel
+        3\Scripts.meta
+      projectPath: Assets\Nivel 3\Scripts.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: P9Game\Assets\Nivel 3\Scripts\CocineroEspacial.cs
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\Assets\Nivel
+        3\Scripts\CocineroEspacial.cs
+      projectPath: Assets\Nivel 3\Scripts\CocineroEspacial.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: P9Game\Assets\Nivel 3\Scripts\CocineroEspacial.cs.meta
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\Assets\Nivel
+        3\Scripts\CocineroEspacial.cs.meta
+      projectPath: Assets\Nivel 3\Scripts\CocineroEspacial.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: P9Game\Assets\Plugins.meta
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\Assets\Plugins.meta
+      projectPath: Assets\Plugins.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: P9Game\Assets\Plugins\GitHub.meta
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\Assets\Plugins\GitHub.meta
+      projectPath: Assets\Plugins\GitHub.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: P9Game\Assets\Plugins\GitHub\Editor.meta
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\Assets\Plugins\GitHub\Editor.meta
+      projectPath: Assets\Plugins\GitHub\Editor.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: P9Game\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: P9Game\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: P9Game\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+      projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: P9Game\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+      projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: P9Game\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: P9Game\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: P9Game\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb.meta
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: P9Game\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: P9Game\Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: P9Game\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: P9Game\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: P9Game\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: P9Game\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: P9Game\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: P9Game\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: P9Game\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: P9Game\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: P9Game\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: P9Game\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb.meta
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: P9Game\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: P9Game\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: P9Game\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: P9Game\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: P9Game\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: P9Game\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: P9Game\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: P9Game\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb.meta
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: P9Game\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: P9Game\Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: P9Game\Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: P9Game\Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+      projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: P9Game\Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+      projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: P9Game\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: P9Game\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: P9Game\Assets\Plugins\GitHub\Editor\System.Threading.dll
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\Assets\Plugins\GitHub\Editor\System.Threading.dll
+      projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: P9Game\Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: P9Game\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+      projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: P9Game\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+      projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: P9Game\Assets\Plugins\GitHub\Editor\big-logo@2x.png
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\Assets\Plugins\GitHub\Editor\big-logo@2x.png
+      projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: P9Game\Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+      projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: P9Game\Assets\Plugins\GitHub\Editor\credits.txt
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\Assets\Plugins\GitHub\Editor\credits.txt
+      projectPath: Assets\Plugins\GitHub\Editor\credits.txt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: P9Game\Assets\Plugins\GitHub\Editor\credits.txt.meta
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\Assets\Plugins\GitHub\Editor\credits.txt.meta
+      projectPath: Assets\Plugins\GitHub\Editor\credits.txt.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: P9Game\Assets\Plugins\GitHub\Editor\eula.txt
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\Assets\Plugins\GitHub\Editor\eula.txt
+      projectPath: Assets\Plugins\GitHub\Editor\eula.txt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: P9Game\Assets\Plugins\GitHub\Editor\eula.txt.meta
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\Assets\Plugins\GitHub\Editor\eula.txt.meta
+      projectPath: Assets\Plugins\GitHub\Editor\eula.txt.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: P9Game\Assets\Plugins\GitHub\Editor\libsfw.bundle
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\Assets\Plugins\GitHub\Editor\libsfw.bundle
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: P9Game\Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: P9Game\Assets\Plugins\GitHub\Editor\libsfw.so
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\Assets\Plugins\GitHub\Editor\libsfw.so
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.so
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: P9Game\Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: P9Game\Assets\Plugins\GitHub\Editor\sfw.net.dll
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\Assets\Plugins\GitHub\Editor\sfw.net.dll
+      projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: P9Game\Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: P9Game\Assets\Plugins\GitHub\Editor\x64.meta
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\Assets\Plugins\GitHub\Editor\x64.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x64.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: P9Game\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: P9Game\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: P9Game\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: P9Game\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: P9Game\Assets\Plugins\GitHub\Editor\x86.meta
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\Assets\Plugins\GitHub\Editor\x86.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x86.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: P9Game\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: P9Game\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: P9Game\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: P9Game\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: P9Game\Assets\Recursos Globales.meta
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\Assets\Recursos
+        Globales.meta
+      projectPath: Assets\Recursos Globales.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: P9Game\Assets\Recursos Globales\Enemigos Globales.meta
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\Assets\Recursos
+        Globales\Enemigos Globales.meta
+      projectPath: Assets\Recursos Globales\Enemigos Globales.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: P9Game\Assets\Recursos Globales\Enemigos Globales\Rocas espaciales.cs
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\Assets\Recursos
+        Globales\Enemigos Globales\Rocas espaciales.cs
+      projectPath: Assets\Recursos Globales\Enemigos Globales\Rocas espaciales.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: P9Game\Assets\Recursos Globales\Enemigos Globales\Rocas espaciales.cs.meta
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\Assets\Recursos
+        Globales\Enemigos Globales\Rocas espaciales.cs.meta
+      projectPath: Assets\Recursos Globales\Enemigos Globales\Rocas espaciales.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: P9Game\Assets\Recursos Globales\Enemigos Globales\Templates.meta
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\Assets\Recursos
+        Globales\Enemigos Globales\Templates.meta
+      projectPath: Assets\Recursos Globales\Enemigos Globales\Templates.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: P9Game\Assets\Recursos Globales\Entorno.meta
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\Assets\Recursos
+        Globales\Entorno.meta
+      projectPath: Assets\Recursos Globales\Entorno.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: P9Game\Assets\Recursos Globales\Entorno\basicoEscenario.cs
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\Assets\Recursos
+        Globales\Entorno\basicoEscenario.cs
+      projectPath: Assets\Recursos Globales\Entorno\basicoEscenario.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: P9Game\Assets\Recursos Globales\Entorno\basicoEscenario.cs.meta
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\Assets\Recursos
+        Globales\Entorno\basicoEscenario.cs.meta
+      projectPath: Assets\Recursos Globales\Entorno\basicoEscenario.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: P9Game\Assets\Recursos Globales\HUD.meta
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\Assets\Recursos
+        Globales\HUD.meta
+      projectPath: Assets\Recursos Globales\HUD.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: P9Game\Assets\Recursos Globales\Player.meta
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\Assets\Recursos
+        Globales\Player.meta
+      projectPath: Assets\Recursos Globales\Player.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: P9Game\Assets\Recursos Globales\Player\Scripts.meta
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\Assets\Recursos
+        Globales\Player\Scripts.meta
+      projectPath: Assets\Recursos Globales\Player\Scripts.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: P9Game\Assets\Recursos Globales\Player\Scripts\Player.cs
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\Assets\Recursos
+        Globales\Player\Scripts\Player.cs
+      projectPath: Assets\Recursos Globales\Player\Scripts\Player.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: P9Game\Assets\Recursos Globales\Player\Scripts\Player.cs.meta
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\Assets\Recursos
+        Globales\Player\Scripts\Player.cs.meta
+      projectPath: Assets\Recursos Globales\Player\Scripts\Player.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: P9Game\Assets\Recursos Globales\Player\Templates.meta
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\Assets\Recursos
+        Globales\Player\Templates.meta
+      projectPath: Assets\Recursos Globales\Player\Templates.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: P9Game\Assets\Scenes.meta
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\Assets\Scenes.meta
+      projectPath: Assets\Scenes.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: P9Game\Assets\Scenes\Configuracion.unity
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\Assets\Scenes\Configuracion.unity
+      projectPath: Assets\Scenes\Configuracion.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: P9Game\Assets\Scenes\Configuracion.unity.meta
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\Assets\Scenes\Configuracion.unity.meta
+      projectPath: Assets\Scenes\Configuracion.unity.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: P9Game\Assets\Scenes\EndGameStadisticas.unity
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\Assets\Scenes\EndGameStadisticas.unity
+      projectPath: Assets\Scenes\EndGameStadisticas.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: P9Game\Assets\Scenes\EndGameStadisticas.unity.meta
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\Assets\Scenes\EndGameStadisticas.unity.meta
+      projectPath: Assets\Scenes\EndGameStadisticas.unity.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: P9Game\Assets\Scenes\Menu.unity
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\Assets\Scenes\Menu.unity
+      projectPath: Assets\Scenes\Menu.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: P9Game\Assets\Scenes\Menu.unity.meta
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\Assets\Scenes\Menu.unity.meta
+      projectPath: Assets\Scenes\Menu.unity.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: P9Game\Assets\Scenes\Nivel1.unity
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\Assets\Scenes\Nivel1.unity
+      projectPath: Assets\Scenes\Nivel1.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: P9Game\Assets\Scenes\Nivel1.unity.meta
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\Assets\Scenes\Nivel1.unity.meta
+      projectPath: Assets\Scenes\Nivel1.unity.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: P9Game\Assets\Scenes\Nivel2.unity
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\Assets\Scenes\Nivel2.unity
+      projectPath: Assets\Scenes\Nivel2.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: P9Game\Assets\Scenes\Nivel2.unity.meta
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\Assets\Scenes\Nivel2.unity.meta
+      projectPath: Assets\Scenes\Nivel2.unity.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: P9Game\Assets\Scenes\Nivel3.unity
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\Assets\Scenes\Nivel3.unity
+      projectPath: Assets\Scenes\Nivel3.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: P9Game\Assets\Scenes\Nivel3.unity.meta
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\Assets\Scenes\Nivel3.unity.meta
+      projectPath: Assets\Scenes\Nivel3.unity.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: P9Game\Logs\Packages-Update.log
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\Logs\Packages-Update.log
+      projectPath: Logs\Packages-Update.log
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: P9Game\Packages\manifest.json
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\Packages\manifest.json
+      projectPath: Packages\manifest.json
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: P9Game\Packages\packages-lock.json
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\Packages\packages-lock.json
+      projectPath: Packages\packages-lock.json
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: P9Game\ProjectSettings\AudioManager.asset
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\ProjectSettings\AudioManager.asset
+      projectPath: ProjectSettings\AudioManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: P9Game\ProjectSettings\ClusterInputManager.asset
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\ProjectSettings\ClusterInputManager.asset
+      projectPath: ProjectSettings\ClusterInputManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: P9Game\ProjectSettings\DynamicsManager.asset
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\ProjectSettings\DynamicsManager.asset
+      projectPath: ProjectSettings\DynamicsManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: P9Game\ProjectSettings\EditorBuildSettings.asset
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\ProjectSettings\EditorBuildSettings.asset
+      projectPath: ProjectSettings\EditorBuildSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: P9Game\ProjectSettings\EditorSettings.asset
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\ProjectSettings\EditorSettings.asset
+      projectPath: ProjectSettings\EditorSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: P9Game\ProjectSettings\GraphicsSettings.asset
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\ProjectSettings\GraphicsSettings.asset
+      projectPath: ProjectSettings\GraphicsSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: P9Game\ProjectSettings\InputManager.asset
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\ProjectSettings\InputManager.asset
+      projectPath: ProjectSettings\InputManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: P9Game\ProjectSettings\NavMeshAreas.asset
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\ProjectSettings\NavMeshAreas.asset
+      projectPath: ProjectSettings\NavMeshAreas.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: P9Game\ProjectSettings\NetworkManager.asset
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\ProjectSettings\NetworkManager.asset
+      projectPath: ProjectSettings\NetworkManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: P9Game\ProjectSettings\NotificationsSettings.asset
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\ProjectSettings\NotificationsSettings.asset
+      projectPath: ProjectSettings\NotificationsSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: P9Game\ProjectSettings\PackageManagerSettings.asset
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\ProjectSettings\PackageManagerSettings.asset
+      projectPath: ProjectSettings\PackageManagerSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: P9Game\ProjectSettings\Physics2DSettings.asset
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\ProjectSettings\Physics2DSettings.asset
+      projectPath: ProjectSettings\Physics2DSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: P9Game\ProjectSettings\PresetManager.asset
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\ProjectSettings\PresetManager.asset
+      projectPath: ProjectSettings\PresetManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: P9Game\ProjectSettings\ProjectSettings.asset
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\ProjectSettings\ProjectSettings.asset
+      projectPath: ProjectSettings\ProjectSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: P9Game\ProjectSettings\ProjectVersion.txt
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\ProjectSettings\ProjectVersion.txt
+      projectPath: ProjectSettings\ProjectVersion.txt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: P9Game\ProjectSettings\QualitySettings.asset
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\ProjectSettings\QualitySettings.asset
+      projectPath: ProjectSettings\QualitySettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: P9Game\ProjectSettings\TagManager.asset
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\ProjectSettings\TagManager.asset
+      projectPath: ProjectSettings\TagManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: P9Game\ProjectSettings\TimeManager.asset
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\ProjectSettings\TimeManager.asset
+      projectPath: ProjectSettings\TimeManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: P9Game\ProjectSettings\UnityConnectSettings.asset
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\ProjectSettings\UnityConnectSettings.asset
+      projectPath: ProjectSettings\UnityConnectSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: P9Game\ProjectSettings\VFXManager.asset
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\ProjectSettings\VFXManager.asset
+      projectPath: ProjectSettings\VFXManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: P9Game\ProjectSettings\VersionControlSettings.asset
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\ProjectSettings\VersionControlSettings.asset
+      projectPath: ProjectSettings\VersionControlSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: P9Game\ProjectSettings\XRSettings.asset
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\ProjectSettings\XRSettings.asset
+      projectPath: ProjectSettings\XRSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: README.md
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\README.md
+      projectPath: ..\README.md
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+  - commitID: b653e5f184fea7674a404dd840955dd3ae245c3e
+    mergeA: 
+    mergeB: 
+    authorName: AnaIgsan
+    authorEmail: 61803230+AnaIgsan@users.noreply.github.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: Update README.md
+    description: 
+    timeString: 2020-11-13T08:27:56.000+01:00
+    commitTimeString: 2020-11-13T08:27:56.000+01:00
+    changes:
+    - path: README.md
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\README.md
+      projectPath: ..\README.md
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+  - commitID: c89f6bb96244c0dc6cf6c3f8eda1705e6e3bc1c9
+    mergeA: 
+    mergeB: 
+    authorName: "Jos\xE9 Antonio Nuevo Claver\xEDas"
+    authorEmail: 50334452+JoseAntonioNuevo@users.noreply.github.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: Initial commit
+    description: 
+    timeString: 2020-11-12T11:00:45.000+01:00
+    commitTimeString: 2020-11-12T11:00:45.000+01:00
+    changes:
+    - path: README.md
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\README.md
+      projectPath: ..\README.md
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
