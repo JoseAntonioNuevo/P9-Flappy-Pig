@@ -50,7 +50,7 @@ public class IAEnemy : MonoBehaviour
         {
             Fire();
             time = 0;
-            fireDelay = Random.Range(minDelay, maxDelay);
+           // fireDelay = Random.Range(minDelay, maxDelay);
         }
 
 
@@ -61,7 +61,9 @@ public class IAEnemy : MonoBehaviour
         
         if (isFloating)
         {
-            transform.position = new Vector3(transform.position.x, Mathf.Sin(Time.time)* floatingsSpeed);
+
+            
+            transform.position = new Vector3(transform.position.x, Mathf.Sin(Time.time)* floatingsSpeed,-1);
         }
 
     }
