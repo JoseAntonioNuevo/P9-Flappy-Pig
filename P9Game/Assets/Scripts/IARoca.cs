@@ -4,10 +4,7 @@ using UnityEngine;
 
 public class IARoca : MonoBehaviour
 {
-
-
-    [SerializeField]  
-    GameObject explosionVFX = null;
+    
 
     [SerializeField]
     float speed = 0;
@@ -28,18 +25,5 @@ public class IARoca : MonoBehaviour
         transform.position += new Vector3(speed * Time.deltaTime, 0);
     }
 
-    private void OnTriggerEnter2D(Collider2D collision)
-    {
-        if (collision.gameObject.tag == "Player")
-        {
-            GameObject.Destroy(gameObject);
-            PlayExplosion();
-        }
-    }
 
-    private void PlayExplosion()
-    {
-        GameObject explosion = Instantiate(explosionVFX, transform.position, transform.rotation);
-        Destroy(explosion, 1f);
-    }
 }

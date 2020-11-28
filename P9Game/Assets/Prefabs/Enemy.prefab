@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 5059637877171432280}
   m_Layer: 0
   m_Name: Weapon
-  m_TagString: Untagged
+  m_TagString: Weapon
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -81,6 +81,9 @@ MonoBehaviour:
   speed: 1
   isFloating: 0
   floatingsSpeed: 0.5
+  weapon: {fileID: 2661874326731899696}
+  projectile: {fileID: 0}
+  projectileSpeed: 1
 --- !u!50 &451079229364424109
 Rigidbody2D:
   serializedVersion: 4
