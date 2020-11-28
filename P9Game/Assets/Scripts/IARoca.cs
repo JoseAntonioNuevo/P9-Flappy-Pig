@@ -6,12 +6,15 @@ public class IARoca : MonoBehaviour
 {
 
 
-    public float speed = 0;
+    [SerializeField]  
+    GameObject explosionVFX = null;
+
+    [SerializeField]
+    float speed = 0;
 
     // Start is called before the first frame update
     void Start()
     {
-        
     }
 
     // Update is called once per frame
@@ -30,6 +33,13 @@ public class IARoca : MonoBehaviour
         if (collision.gameObject.tag == "Player")
         {
             GameObject.Destroy(gameObject);
+            PlayExplosion();
         }
+    }
+
+    private void PlayExplosion()
+    {
+        GameObject explosion = Instantiate(explosionVFX, transform.position, transform.rotation);
+        Destroy(explosion, 1f);
     }
 }
