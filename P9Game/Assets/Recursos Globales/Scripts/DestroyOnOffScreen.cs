@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class EnemiGlobalMovimientos : MonoBehaviour
+public class DestroyOnOffScreen : MonoBehaviour
 {
     // Start is called before the first frame update
     void Start()
@@ -15,4 +15,10 @@ public class EnemiGlobalMovimientos : MonoBehaviour
     {
         
     }
+
+    void OnBecameInvisible()
+    {
+        Destroy(gameObject);
+    }
+
 }
