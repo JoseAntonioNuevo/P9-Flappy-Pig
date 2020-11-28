@@ -13,6 +13,8 @@ GameObject:
   - component: {fileID: 4354456549848024455}
   - component: {fileID: 6120341252358009811}
   - component: {fileID: -8590951616065894311}
+  - component: {fileID: 3235003053725043760}
+  - component: {fileID: 4048821492352428604}
   m_Layer: 0
   m_Name: Meteorito
   m_TagString: Meteorito
@@ -73,7 +75,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 3d47d341736feed4991972fd3cbcfea6, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 2a7343882bb51be45be60ffaad066bfc, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -135,3 +137,28 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   meteor: {fileID: 0}
   speed: 3
+--- !u!114 &3235003053725043760
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 304417693060074308}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 890c0488c58859b418859de8096c9c70, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &4048821492352428604
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 304417693060074308}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d6449a151ea3db84db72dc7bb4d22e59, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  explosionVFX: {fileID: 139366, guid: b185c1a9cf067374586d095111b15bd1, type: 3}
