@@ -13,15 +13,13 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2020-11-27T02:09:02.315+01:00
-  initializedAtString: 2020-11-27T01:08:25.160+01:00
-  localBranches:
-  - name: main
-    tracking: origin/main
-  - name: Menus
-    tracking: origin/Menus
+  lastUpdatedAtString: 2020-11-28T01:56:24.626+01:00
+  initializedAtString: 2020-11-28T00:40:43.616+01:00
+  localBranches: []
   remoteBranches:
   - name: origin/HEAD
+    tracking: '[None]'
+  - name: origin/Menus
     tracking: '[None]'
   remotes:
   - name: origin
@@ -32,29 +30,23 @@ MonoBehaviour:
     function: 0
     token: 
   localConfigBranches:
-    keys:
-    - main
-    - Menus
-    values:
-    - name: main
-      remote:
-        name: origin
-        url: https://github.com/JoseAntonioNuevo/P9-Flappy-Pig.git
-      trackingBranch: main
-    - name: Menus
-      remote:
-        name: origin
-        url: https://github.com/JoseAntonioNuevo/P9-Flappy-Pig.git
-      trackingBranch: Menus
+    keys: []
+    values: []
   remoteConfigBranches:
     keys:
     - origin
     subKeys:
     - Values:
       - HEAD
+      - Menus
     subKeyValues:
     - Values:
       - name: HEAD
+        remote:
+          name: origin
+          url: https://github.com/JoseAntonioNuevo/P9-Flappy-Pig.git
+        trackingBranch: 
+      - name: Menus
         remote:
           name: origin
           url: https://github.com/JoseAntonioNuevo/P9-Flappy-Pig.git
