@@ -13,9 +13,255 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2020-11-28T01:56:27.341+01:00
-  initializedAtString: 2020-11-28T00:40:44.877+01:00
+  lastUpdatedAtString: 2020-11-30T11:49:58.919+01:00
+  initializedAtString: 2020-11-30T11:49:58.919+01:00
   log:
+  - commitID: a8f8235e895e9dc0ba70edcfc7c22041862e225e
+    mergeA: 
+    mergeB: 
+    authorName: JoseAntonioNuevo
+    authorEmail: joseantonionuevo@gmail.com
+    commitEmail: joseantonionuevo@gmail.com
+    commitName: JoseAntonioNuevo
+    summary: "Men\xFAs Game Over, passed y fin del juego"
+    description: 
+    timeString: 2020-11-28T02:11:49.000+01:00
+    commitTimeString: 2020-11-28T02:11:49.000+01:00
+    changes:
+    - path: P9Game\Assets\MainMenu.cs
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\Assets\MainMenu.cs
+      projectPath: Assets\MainMenu.cs
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: P9Game\Assets\Scenes\EndMenu.unity
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\Assets\Scenes\EndMenu.unity
+      projectPath: Assets\Scenes\EndMenu.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: P9Game\Assets\Scenes\EndMenu.unity.meta
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\Assets\Scenes\EndMenu.unity.meta
+      projectPath: Assets\Scenes\EndMenu.unity.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: P9Game\Assets\Scenes\GameOver.unity
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\Assets\Scenes\GameOver.unity
+      projectPath: Assets\Scenes\GameOver.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: P9Game\Assets\Scenes\GameOver.unity.meta
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\Assets\Scenes\GameOver.unity.meta
+      projectPath: Assets\Scenes\GameOver.unity.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: P9Game\Assets\Scenes\GameOver1.unity
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\Assets\Scenes\GameOver1.unity
+      projectPath: Assets\Scenes\GameOver1.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: P9Game\Assets\Scenes\GameOver1.unity.meta
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\Assets\Scenes\GameOver1.unity.meta
+      projectPath: Assets\Scenes\GameOver1.unity.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: P9Game\Assets\Scenes\GameOver2.unity
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\Assets\Scenes\GameOver2.unity
+      projectPath: Assets\Scenes\GameOver2.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: P9Game\Assets\Scenes\GameOver2.unity.meta
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\Assets\Scenes\GameOver2.unity.meta
+      projectPath: Assets\Scenes\GameOver2.unity.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: P9Game\Assets\Scenes\GameOver3.unity
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\Assets\Scenes\GameOver3.unity
+      projectPath: Assets\Scenes\GameOver3.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: P9Game\Assets\Scenes\GameOver3.unity.meta
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\Assets\Scenes\GameOver3.unity.meta
+      projectPath: Assets\Scenes\GameOver3.unity.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: P9Game\Assets\Scenes\LevelPassed.unity
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\Assets\Scenes\LevelPassed.unity
+      projectPath: Assets\Scenes\LevelPassed.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: P9Game\Assets\Scenes\LevelPassed.unity.meta
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\Assets\Scenes\LevelPassed.unity.meta
+      projectPath: Assets\Scenes\LevelPassed.unity.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: P9Game\Assets\Scenes\LevelPassed1.unity
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\Assets\Scenes\LevelPassed1.unity
+      projectPath: Assets\Scenes\LevelPassed1.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: P9Game\Assets\Scenes\LevelPassed1.unity.meta
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\Assets\Scenes\LevelPassed1.unity.meta
+      projectPath: Assets\Scenes\LevelPassed1.unity.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: P9Game\Assets\Scenes\LevelPassed2.unity
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\Assets\Scenes\LevelPassed2.unity
+      projectPath: Assets\Scenes\LevelPassed2.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: P9Game\Assets\Scenes\LevelPassed2.unity.meta
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\Assets\Scenes\LevelPassed2.unity.meta
+      projectPath: Assets\Scenes\LevelPassed2.unity.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: P9Game\Assets\Scenes\Menu.unity
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\Assets\Scenes\Menu.unity
+      projectPath: Assets\Scenes\Menu.unity
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: P9Game\Library\ArtifactDB
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\Library\ArtifactDB
+      projectPath: Library\ArtifactDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: P9Game\Library\Artifacts\4c\4c72e38d762ac194d4e03d994a8954b0
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\Library\Artifacts\4c\4c72e38d762ac194d4e03d994a8954b0
+      projectPath: Library\Artifacts\4c\4c72e38d762ac194d4e03d994a8954b0
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: P9Game\Library\Artifacts\e8\e871fd23e3203fcc962b67abcc82623e
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\Library\Artifacts\e8\e871fd23e3203fcc962b67abcc82623e
+      projectPath: Library\Artifacts\e8\e871fd23e3203fcc962b67abcc82623e
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: P9Game\Library\InspectorExpandedItems.asset
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\Library\InspectorExpandedItems.asset
+      projectPath: Library\InspectorExpandedItems.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: P9Game\Library\SceneVisibilityState.asset
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\Library\SceneVisibilityState.asset
+      projectPath: Library\SceneVisibilityState.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: P9Game\Library\ScriptAssemblies\Assembly-CSharp.dll
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\Library\ScriptAssemblies\Assembly-CSharp.dll
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: P9Game\Library\ScriptAssemblies\Assembly-CSharp.pdb
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\Library\ScriptAssemblies\Assembly-CSharp.pdb
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: P9Game\Library\SourceAssetDB
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\Library\SourceAssetDB
+      projectPath: Library\SourceAssetDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: P9Game\Library\StateCache\Hierarchy\e4ec82-mainStage.json
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\Library\StateCache\Hierarchy\e4ec82-mainStage.json
+      projectPath: Library\StateCache\Hierarchy\e4ec82-mainStage.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: P9Game\Library\gfu\cache\branches.yaml
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\Library\gfu\cache\branches.yaml
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: P9Game\Library\gfu\cache\gitlocks.yaml
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\Library\gfu\cache\gitlocks.yaml
+      projectPath: Library\gfu\cache\gitlocks.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: P9Game\Library\gfu\cache\gitlog.yaml
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: P9Game\Library\gfu\cache\gitstatusentries.yaml
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: P9Game\Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: P9Game\Library\gfu\cache\repoinfo.yaml
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\Library\gfu\cache\repoinfo.yaml
+      projectPath: Library\gfu\cache\repoinfo.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: P9Game\Library\shadercompiler-UnityShaderCompiler.exe0.log
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\Library\shadercompiler-UnityShaderCompiler.exe0.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: P9Game\Library\shadercompiler-UnityShaderCompiler.exe1.log
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\Library\shadercompiler-UnityShaderCompiler.exe1.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe1.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: P9Game\Library\shadercompiler-UnityShaderCompiler.exe2.log
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\Library\shadercompiler-UnityShaderCompiler.exe2.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe2.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: P9Game\Library\shadercompiler-UnityShaderCompiler.exe3.log
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\Library\shadercompiler-UnityShaderCompiler.exe3.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe3.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: P9Game\Library\shadercompiler-UnityShaderCompiler.exe4.log
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\Library\shadercompiler-UnityShaderCompiler.exe4.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe4.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: P9Game\ProjectSettings\EditorBuildSettings.asset
+      fullPath: C:\Users\josew\OneDrive\Documents\Unity\P9-Flappy-Pig\P9Game\ProjectSettings\EditorBuildSettings.asset
+      projectPath: ProjectSettings\EditorBuildSettings.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
   - commitID: 2ca88df90b9df329d898b1fd44a4531783899b63
     mergeA: 
     mergeB: 

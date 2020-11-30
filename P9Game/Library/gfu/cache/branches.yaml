@@ -13,13 +13,25 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2020-11-28T01:56:24.626+01:00
-  initializedAtString: 2020-11-28T00:40:43.616+01:00
-  localBranches: []
+  lastUpdatedAtString: 2020-11-30T11:52:53.421+01:00
+  initializedAtString: 2020-11-30T11:49:57.370+01:00
+  localBranches:
+  - name: Menus
+    tracking: origin/Menus
   remoteBranches:
+  - name: origin/Emma
+    tracking: '[None]'
   - name: origin/HEAD
     tracking: '[None]'
+  - name: origin/Jordi
+    tracking: '[None]'
+  - name: origin/Luis-Nivel1
+    tracking: '[None]'
+  - name: origin/Luis-RecursosGenerales
+    tracking: '[None]'
   - name: origin/Menus
+    tracking: '[None]'
+  - name: origin/Ricardo-Movimientos
     tracking: '[None]'
   remotes:
   - name: origin
@@ -30,23 +42,59 @@ MonoBehaviour:
     function: 0
     token: 
   localConfigBranches:
-    keys: []
-    values: []
+    keys:
+    - Menus
+    values:
+    - name: Menus
+      remote:
+        name: origin
+        url: https://github.com/JoseAntonioNuevo/P9-Flappy-Pig.git
+      trackingBranch: Menus
   remoteConfigBranches:
     keys:
     - origin
     subKeys:
     - Values:
+      - Emma
       - HEAD
+      - Jordi
+      - Luis-Nivel1
+      - Luis-RecursosGenerales
       - Menus
+      - Ricardo-Movimientos
     subKeyValues:
     - Values:
+      - name: Emma
+        remote:
+          name: origin
+          url: https://github.com/JoseAntonioNuevo/P9-Flappy-Pig.git
+        trackingBranch: 
       - name: HEAD
         remote:
           name: origin
           url: https://github.com/JoseAntonioNuevo/P9-Flappy-Pig.git
         trackingBranch: 
+      - name: Jordi
+        remote:
+          name: origin
+          url: https://github.com/JoseAntonioNuevo/P9-Flappy-Pig.git
+        trackingBranch: 
+      - name: Luis-Nivel1
+        remote:
+          name: origin
+          url: https://github.com/JoseAntonioNuevo/P9-Flappy-Pig.git
+        trackingBranch: 
+      - name: Luis-RecursosGenerales
+        remote:
+          name: origin
+          url: https://github.com/JoseAntonioNuevo/P9-Flappy-Pig.git
+        trackingBranch: 
       - name: Menus
+        remote:
+          name: origin
+          url: https://github.com/JoseAntonioNuevo/P9-Flappy-Pig.git
+        trackingBranch: 
+      - name: Ricardo-Movimientos
         remote:
           name: origin
           url: https://github.com/JoseAntonioNuevo/P9-Flappy-Pig.git
