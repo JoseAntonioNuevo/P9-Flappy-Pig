@@ -7,6 +7,31 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: -2868515266868567404, guid: 8f63c6dd99d790f439421de53d4d76c1,
+        type: 3}
+      propertyPath: name
+      value: Fireball
+      objectReference: {fileID: 0}
+    - target: {fileID: -2868515266868567404, guid: 8f63c6dd99d790f439421de53d4d76c1,
+        type: 3}
+      propertyPath: damage
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -2868515266868567404, guid: 8f63c6dd99d790f439421de53d4d76c1,
+        type: 3}
+      propertyPath: speed
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: -2868515266868567404, guid: 8f63c6dd99d790f439421de53d4d76c1,
+        type: 3}
+      propertyPath: minDelay
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -2868515266868567404, guid: 8f63c6dd99d790f439421de53d4d76c1,
+        type: 3}
+      propertyPath: maxDelay
+      value: 7
+      objectReference: {fileID: 0}
     - target: {fileID: 322868248802320841, guid: 8f63c6dd99d790f439421de53d4d76c1,
         type: 3}
       propertyPath: m_Offset.x

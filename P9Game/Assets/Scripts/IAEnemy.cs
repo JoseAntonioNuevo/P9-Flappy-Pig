@@ -15,21 +15,19 @@ public class IAEnemy : MonoBehaviour
     float floatingsSpeed = 0.5f;
 
     [SerializeField]
-    GameObject weapon = null;
+    float minDelay = 1f;
     [SerializeField]
-    GameObject projectile = null; 
-    [SerializeField]
-    float projectileSpeed = 1f;
+    float maxDelay = 3f;
 
     [SerializeField]
-    float maxDelay = 10f;
+    GameObject[] weapon = null;
     [SerializeField]
-    float minDelay = 5f;
+    ProjectileData[] projectiles = null;
 
-    [SerializeField]
-    float fireDelay = 1f;
+    float fireDelay= 0;
 
     public float time = 0;
+    public int random = 0;
 
 
     
@@ -43,17 +41,7 @@ public class IAEnemy : MonoBehaviour
     void Update()
     {
         Floating();
-
-        time += Time.deltaTime;
-
-        if (time > fireDelay)
-        {
-            Fire();
-            time = 0;
-            fireDelay = Random.Range(minDelay, maxDelay);
-        }
-
-
+        FireController();
     }
 
     void Floating()
@@ -66,11 +54,40 @@ public class IAEnemy : MonoBehaviour
 
     }
 
-    void Fire()
+    void Fire(int idx, int wpn)
     {
-       GameObject projectileInstance = Instantiate(projectile, weapon.transform.position, Quaternion.identity);
+        ProjectileData projectileInstance = Instantiate(projectiles[idx], weapon[wpn].transform.position, Quaternion.identity);
 
-        projectileInstance.GetComponent<Rigidbody2D>().velocity = new Vector2(-projectileSpeed, 0);
+        projectileInstance.GetComponent<Rigidbody2D>().velocity = new Vector2(-projectiles[idx].Speed, 0);
         
+    }
+
+    void FireController()
+    {
+
+
+        time += Time.deltaTime;
+
+        if (time > fireDelay)
+        {
+            random = Random.Range(1, 10);
+            Debug.Log("entra en +2 y el random es " + random);
+            for (int i = 0; i < projectiles.Length; i++)
+            {
+                if (random >= projectiles[i].MinProbability && random < projectiles[i].MaxProbability)
+                {
+                    Debug.Log("disparo " +i +" porque el random es " + random);
+                    Fire(i, i);
+                        
+                }
+            }
+
+            time = 0;
+            fireDelay = Random.Range(minDelay, maxDelay);
+        }
+
+
+
+      
     }
 }

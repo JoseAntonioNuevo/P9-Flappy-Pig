@@ -32,4 +32,6 @@ public class TriggerExplosion : MonoBehaviour
         GameObject explosion = Instantiate(explosionVFX, transform.position, transform.rotation);
         Destroy(explosion, 1f);
     }
+
+    
 }

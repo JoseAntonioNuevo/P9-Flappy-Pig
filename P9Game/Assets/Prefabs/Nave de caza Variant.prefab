@@ -1,29 +1,5 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!114 &8689852972517264799
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1881743541512707385}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 04d577aa6dcf70a4f88eacd655cebf5a, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  health: 100
-  speed: 1
-  isFloating: 0
-  floatingsSpeed: 0.5
-  weapon: {fileID: 7769966941851151896}
-  projectile: {fileID: 2037085981926663621, guid: 8d6013f9aa48b9a4284a64e12226d68b,
-    type: 3}
-  projectileSpeed: 2
-  maxDelay: 10
-  minDelay: 3
-  fireDelay: 1
-  time: 0
 --- !u!1 &7769966941851151896
 GameObject:
   m_ObjectHideFlags: 0
@@ -209,6 +185,16 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6755798365283921924, guid: 3a71e3d4b639adf49a97665fdbd18eeb,
         type: 3}
+      propertyPath: projectiles.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6755798365283921924, guid: 3a71e3d4b639adf49a97665fdbd18eeb,
+        type: 3}
+      propertyPath: weapon.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6755798365283921924, guid: 3a71e3d4b639adf49a97665fdbd18eeb,
+        type: 3}
       propertyPath: health
       value: 150
       objectReference: {fileID: 0}
@@ -248,17 +234,39 @@ PrefabInstance:
       propertyPath: floatingsSpeed
       value: 3
       objectReference: {fileID: 0}
+    - target: {fileID: 6755798365283921924, guid: 3a71e3d4b639adf49a97665fdbd18eeb,
+        type: 3}
+      propertyPath: projectiles.Array.data[0]
+      value: 
+      objectReference: {fileID: -5826356847652171589, guid: c24ae6eda92a18f46991a42cc9c0dc6c,
+        type: 3}
+    - target: {fileID: 6755798365283921924, guid: 3a71e3d4b639adf49a97665fdbd18eeb,
+        type: 3}
+      propertyPath: projectiles.Array.data[1]
+      value: 
+      objectReference: {fileID: 6352415465885553484, guid: 8d6013f9aa48b9a4284a64e12226d68b,
+        type: 3}
+    - target: {fileID: 6755798365283921924, guid: 3a71e3d4b639adf49a97665fdbd18eeb,
+        type: 3}
+      propertyPath: weapon.Array.data[0]
+      value: 
+      objectReference: {fileID: 1224361751390355544}
+    - target: {fileID: 6755798365283921924, guid: 3a71e3d4b639adf49a97665fdbd18eeb,
+        type: 3}
+      propertyPath: weapon.Array.data[1]
+      value: 
+      objectReference: {fileID: 7769966941851151896}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3a71e3d4b639adf49a97665fdbd18eeb, type: 3}
---- !u!1 &1881743541512707385 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 3319264910267178577, guid: 3a71e3d4b639adf49a97665fdbd18eeb,
-    type: 3}
-  m_PrefabInstance: {fileID: 3750704773027119976}
-  m_PrefabAsset: {fileID: 0}
 --- !u!4 &8729675690747373784 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 5560581971487812528, guid: 3a71e3d4b639adf49a97665fdbd18eeb,
+    type: 3}
+  m_PrefabInstance: {fileID: 3750704773027119976}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &1224361751390355544 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 2661874326731899696, guid: 3a71e3d4b639adf49a97665fdbd18eeb,
     type: 3}
   m_PrefabInstance: {fileID: 3750704773027119976}
   m_PrefabAsset: {fileID: 0}

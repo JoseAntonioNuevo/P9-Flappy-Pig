@@ -155,6 +155,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6755798365283921924, guid: 3a71e3d4b639adf49a97665fdbd18eeb,
         type: 3}
+      propertyPath: projectiles.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6755798365283921924, guid: 3a71e3d4b639adf49a97665fdbd18eeb,
+        type: 3}
       propertyPath: isFloating
       value: 1
       objectReference: {fileID: 0}
@@ -162,7 +167,24 @@ PrefabInstance:
         type: 3}
       propertyPath: projectile
       value: 
-      objectReference: {fileID: 1429821428347647018, guid: ce3c8a0ba1b7ee245bf044527936c890,
+      objectReference: {fileID: 6321578188552258211, guid: ce3c8a0ba1b7ee245bf044527936c890,
         type: 3}
+    - target: {fileID: 6755798365283921924, guid: 3a71e3d4b639adf49a97665fdbd18eeb,
+        type: 3}
+      propertyPath: projectiles.Array.data[0]
+      value: 
+      objectReference: {fileID: 6321578188552258211, guid: ce3c8a0ba1b7ee245bf044527936c890,
+        type: 3}
+    - target: {fileID: 6755798365283921924, guid: 3a71e3d4b639adf49a97665fdbd18eeb,
+        type: 3}
+      propertyPath: weapon.Array.data[0]
+      value: 
+      objectReference: {fileID: 4626261282057331003}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3a71e3d4b639adf49a97665fdbd18eeb, type: 3}
+--- !u!1 &4626261282057331003 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 2661874326731899696, guid: 3a71e3d4b639adf49a97665fdbd18eeb,
+    type: 3}
+  m_PrefabInstance: {fileID: 7260691798526124555}
+  m_PrefabAsset: {fileID: 0}

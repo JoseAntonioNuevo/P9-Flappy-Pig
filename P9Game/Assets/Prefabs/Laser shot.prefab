@@ -14,6 +14,7 @@ GameObject:
   - component: {fileID: 9169804822565825067}
   - component: {fileID: 1210221952254273173}
   - component: {fileID: 1094454428451946565}
+  - component: {fileID: -5826356847652171589}
   m_Layer: 0
   m_Name: Laser shot
   m_TagString: Untagged
@@ -147,3 +148,22 @@ CapsuleCollider2D:
   m_Offset: {x: 0.073665015, y: -0.028927032}
   m_Size: {x: 5.208309, y: 0.6416953}
   m_Direction: 1
+--- !u!114 &-5826356847652171589
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1399998039071506206}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d92379b0b471a046aaffc37969ef2ba, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  name: Laser
+  damage: 5
+  speed: 6
+  minDelay: 3
+  maxDelay: 6
+  minProbability: 1
+  maxProbability: 6
