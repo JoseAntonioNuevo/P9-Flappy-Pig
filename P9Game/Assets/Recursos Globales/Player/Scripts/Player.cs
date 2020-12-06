@@ -16,7 +16,9 @@ public class Player : MonoBehaviour
     public float firerate = 0.5f;
     public float nextfire = 0.0f;
 
-
+    public string nombre = "ricc";
+    public int score = 2300;
+    public int nivel = 1;
 
     // Start is called before the first frame update
     void Start()
@@ -60,6 +62,21 @@ public class Player : MonoBehaviour
         dispos = transform.position;
         dispos += new Vector2(2f, 0f);
         Instantiate(disparo, dispos, Quaternion.identity);
+    }
+
+    public void SavePlayer()
+    {
+        SaveLoad.SavePlayer(this);
+    }
+
+    public void LoadPlayer()
+    {
+        PlayerData data = SaveLoad.Load();
+
+        nombre = data.nombreprota;
+        score = data.scoretotal;
+        nivel = data.nivelcarga;
+
     }
 
 }
