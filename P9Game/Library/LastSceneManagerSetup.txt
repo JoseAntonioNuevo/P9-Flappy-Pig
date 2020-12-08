@@ -1,6 +1,10 @@
 sceneSetups:
 <<<<<<< HEAD
+<<<<<<< HEAD
 - path: Assets/Scenes/Menus/EndMenu.unity
+=======
+- path: Assets/Scenes/Niveles/Nivel 0.unity
+>>>>>>> parent of 0284954... Menú Pausa
 =======
 - path: Assets/Scenes/Niveles/Nivel 0.unity
 >>>>>>> parent of 0284954... Menú Pausa

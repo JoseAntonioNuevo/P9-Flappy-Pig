@@ -4898,6 +4898,7 @@ ParticleSystem:
         m_RotationOrder: 4
     vectorLabel1_3: W
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1 &270381076
 GameObject:
   m_ObjectHideFlags: 0
@@ -5105,6 +5106,8 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+=======
+>>>>>>> parent of 0284954... Menú Pausa
 =======
 >>>>>>> parent of 0284954... Menú Pausa
 --- !u!1 &403305668
@@ -29101,6 +29104,7 @@ ParticleSystem:
         m_RotationOrder: 4
     vectorLabel1_3: W
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1 &884549909
 GameObject:
   m_ObjectHideFlags: 0
@@ -29614,6 +29618,8 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls: []
+=======
+>>>>>>> parent of 0284954... Menú Pausa
 =======
 >>>>>>> parent of 0284954... Menú Pausa
 --- !u!1 &942591946 stripped
@@ -34445,6 +34451,7 @@ Transform:
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1 &1001612154
 GameObject:
   m_ObjectHideFlags: 0
@@ -34595,6 +34602,8 @@ RectTransform:
   m_Pivot: {x: 0, y: 0}
 =======
 >>>>>>> parent of 0284954... Menú Pausa
+=======
+>>>>>>> parent of 0284954... Menú Pausa
 --- !u!1 &1108936565
 GameObject:
   m_ObjectHideFlags: 0
@@ -34676,6 +34685,7 @@ Transform:
   m_Father: {fileID: 2075084802}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
 --- !u!1 &1122230705
 GameObject:
@@ -34991,6 +35001,10 @@ CanvasRenderer:
 --- !u!1001 &1166247233
 PrefabInstance:
 >>>>>>> parent of 0284954... Menú Pausa
+=======
+--- !u!1001 &1166247233
+PrefabInstance:
+>>>>>>> parent of 0284954... Menú Pausa
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
@@ -35225,6 +35239,7 @@ Transform:
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1 &1559690597
 GameObject:
   m_ObjectHideFlags: 0
@@ -35261,6 +35276,8 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: -20, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
+=======
+>>>>>>> parent of 0284954... Menú Pausa
 =======
 >>>>>>> parent of 0284954... Menú Pausa
 --- !u!1 &1567428256
@@ -40040,6 +40057,7 @@ ParticleSystem:
         m_RotationOrder: 4
     vectorLabel1_3: W
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1 &1698964604
 GameObject:
   m_ObjectHideFlags: 0
@@ -40249,6 +40267,8 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
+=======
+>>>>>>> parent of 0284954... Menú Pausa
 =======
 >>>>>>> parent of 0284954... Menú Pausa
 --- !u!1 &2009096796
@@ -45120,6 +45140,7 @@ Transform:
   m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1 &2075598531
 GameObject:
   m_ObjectHideFlags: 0
@@ -45214,6 +45235,8 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2075598531}
   m_CullTransparentMesh: 0
+=======
+>>>>>>> parent of 0284954... Menú Pausa
 =======
 >>>>>>> parent of 0284954... Menú Pausa
 --- !u!1001 &2103882266
