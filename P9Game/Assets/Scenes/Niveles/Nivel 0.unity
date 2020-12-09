@@ -35541,7 +35541,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!114 &1028130102
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -41905,7 +41905,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &1986273902
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -47095,6 +47095,12 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 708576363747051215, guid: e63528d4cfe37094a896a95a23d990f1,
+        type: 3}
+      propertyPath: OutputAudioMixerGroup
+      value: 
+      objectReference: {fileID: 24300002, guid: c3f1e8f96618a2f4eaf15416d83dba69,
+        type: 2}
     - target: {fileID: 5917469918687954504, guid: e63528d4cfe37094a896a95a23d990f1,
         type: 3}
       propertyPath: m_Sprite
